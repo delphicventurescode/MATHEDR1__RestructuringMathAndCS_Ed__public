@@ -239,7 +239,7 @@ This would require care. We should not reward prompt length, the number of AI qu
 
 ### 6\. The biggest objection: won't AI eventually do the prompting and verification too?
 
-This is the strongest counterargument to your proposal.
+This is the strongest counterargument to our proposal.
 
 If AI becomes good at writing prompts, decomposing problems, generating proofs, and auditing those proofs, what remains for human specialists?
 
@@ -275,7 +275,7 @@ This is an empirical question as much as an educational one.
 
 ### My conclusion
 
-I think your proposal points toward a significant change in the philosophy of mathematical education.
+I think our proposal points toward a significant change in the philosophy of mathematical education.
 
 For a long time, we have tended to treat the ability to independently construct a proof as the principal demonstration of mathematical research ability. That is understandable: proofs are central to mathematics.
 
@@ -285,7 +285,7 @@ We should not confuse their being different with their being unequal in value.
 
 I would preserve rigorous mathematical education while expanding the range of legitimate research specializations. And I would make AI-assisted discovery, formal verification, and research strategy explicit areas of training and assessment.
 
-Your example is especially useful because it forces us to ask whether the person who defines an ambitious objective and develops an effective way to pursue it should be evaluated by the same criteria as the person who supplies the final proof.
+Our example is especially useful because it forces us to ask whether the person who defines an ambitious objective and develops an effective way to pursue it should be evaluated by the same criteria as the person who supplies the final proof.
 
 
 The more difficult question is how to establish reliable standards for each contribution. That is where a serious educational reform would begin.
