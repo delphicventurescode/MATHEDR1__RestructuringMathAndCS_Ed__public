@@ -161,7 +161,7 @@ The change would be in the depth of specialization and the criteria for research
 
 ### 4\. The prompt example raises a more fundamental question
 
-Let's return to your example:
+Let's return to our example:
 
 > Solve all remaining Clay Millennium Prize problems.
 
