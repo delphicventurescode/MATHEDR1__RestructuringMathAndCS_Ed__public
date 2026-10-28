@@ -165,7 +165,7 @@ Let's return to our example:
 
 > Solve all remaining Clay Millennium Prize problems.
 
-There are seven original Millennium Prize Problems, with the Poincaré conjecture having been resolved. The remaining six are major open problems.
+There are seven original Millennium Prize Problems, with the Poincaré conjecture having been definitely resolved as of the time of the writing of the first draft of this paper. 
 
 A researcher could approach this challenge in several ways.
 
