@@ -159,7 +159,7 @@ Someone specializing in verification would still need to understand mathematical
 
 The change would be in the depth of specialization and the criteria for research success, not in eliminating intellectual rigor.
 
-### 4\. Your prompt example raises a more fundamental question
+### 4\. The prompt example raises a more fundamental question
 
 Let's return to your example:
 
